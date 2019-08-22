@@ -1,0 +1,2 @@
+#!/bin/bash
+JAVA_HOME="$(/usr/libexec/java_home --version 1.8)" exec "/usr/local/Cellar/kafka/2.2.1/libexec/bin/kafka-console-ssl-consumer.sh" "$@"

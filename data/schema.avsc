@@ -1,0 +1,1 @@
+{"schema": "{\"name\":\"TestSchema\",\"namespace\":\"test.schema\",\"type\":\"record\",\"version\":\"1\",\"fields\":[{\"name\":\"id\",\"type\":\"int\"},{\"name\":\"serial\",\"type\":\"string\"}]}"}
